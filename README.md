@@ -1,1 +1,3 @@
-Interested in web & application development. Currently learning .NET development.
+## Hi there 👋🏽
+
+I'm interested in web & application development. I'm currently learning C# and .NET.
